@@ -35,4 +35,7 @@ p {
 #copyright h3 {
     text-align: right;
     color: gray;
+    font-size: 21px;
+    font-family: verdana;
+    font-weight: normal;
 }

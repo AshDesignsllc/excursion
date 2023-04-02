@@ -1,15 +1,16 @@
+/* Body */
 * {
     background-color: black;
     text-align: center;
 }
 
+/* Main */
 #about {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
-
 }
 
 a {
@@ -30,6 +31,7 @@ p {
     color: gray;
 }
 
+/* Footer */
 #copyright h3 {
     text-align: right;
     color: gray;
